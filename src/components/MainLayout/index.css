@@ -1,0 +1,30 @@
+.page__container {
+    height: 100%;
+}
+
+.page__content, .child__content, .image__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.__content, .child__content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.image__container {
+    padding: 10px;
+    background-color: #7A5D82;
+    border-radius: 20px;
+}
+
+.image__container > img {
+    border-radius: 20px;
+    width: 250px;
+}
+
+.child__content {
+    margin: 20px 0;
+}

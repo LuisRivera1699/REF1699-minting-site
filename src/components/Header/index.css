@@ -1,0 +1,19 @@
+header {
+    padding: 15px 30px;
+    display: flex;
+    align-items: center;
+}
+
+.header__option {
+    margin-left: 25px;
+}
+
+.header__option > a {
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+.header__option:hover > a {
+    text-decoration: underline;
+}

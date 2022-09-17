@@ -1,0 +1,40 @@
+.quantity__container {
+    width: 270px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 15px 0;
+}
+
+.quantity__text {
+    margin: 0 15px;
+}
+
+.quantity__button {
+    cursor: pointer;
+}
+
+.quantity__button > span {
+    font-size: 24px;
+}
+
+.referrer__container {
+    display: flex;
+    flex-direction: column;
+}
+
+.rrss__container {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.rrss__container > a > img {
+    width: 40px;
+}
+
+.rrss__container > small {
+    margin-bottom: 10px;
+}
