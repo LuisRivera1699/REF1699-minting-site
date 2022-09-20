@@ -33,6 +33,7 @@ You can make your UI communicate your user wether they are entering and minting 
 ![Referrer minting](https://raw.githubusercontent.com/LuisRivera1699/REF1699-minting-site/main/public/mint.png)
 
 **How to integrate with Smart Contract**
+
 Actually there is no rule to integrate to your Smart Contract as you decide the rewarding conditions to your referrer. In our [DemoNFT](https://github.com/LuisRivera1699/REF1699-standard) Smart Contract example we decide to reward referrers per each minted token so we just have to validate that the referrer wallet is not the `0x0` address.
 
     pragma solidity ^0.8.x;
