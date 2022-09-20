@@ -56,6 +56,9 @@ Actually there is no rule to integrate to your Smart Contract as you decide the 
     }
 Check out our integration with this rewarding logic in [`src/pages/Refer/index.jsx:90`](https://github.com/LuisRivera1699/REF1699-minting-site/blob/42826113a0f7be600394ed9061ce0374750d46bb/src/pages/Mint/index.jsx#L90).
 
+**Demo URL**
+If you want to see our proposed flow, take a look at our example Demo is hosted in: [`REF1699 Minting Site Example`](https://ref-1699-minting-site.vercel.app/).
+
 ## Buy me a cofee ☕☕
 **ETH & Polygon Address** : 
 0x8306865FAb8dEC66a1d9927d9ffC4298500cF7Ed
