@@ -61,7 +61,7 @@ Check out our integration with this rewarding logic in [`src/pages/Refer/index.j
 
 If you want to see our proposed flow, take a look at our example Demo is hosted in: [`REF1699 Minting Site Example`](https://ref-1699-minting-site.vercel.app/).
 
-## Buy me a cofee ☕☕
+## Buy me a coffee ☕☕
 **ETH & Polygon Address** : 
 0x8306865FAb8dEC66a1d9927d9ffC4298500cF7Ed
 
