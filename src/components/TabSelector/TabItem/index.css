@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    color: #201A59;
 }
 
 .tab__item > p {
@@ -11,7 +12,7 @@
 }
 
 .tab__item:hover, .tab__item__selected {
-    background-color: #7A5D82;
+    background-color: #201A59;
     color: white;
 }
 

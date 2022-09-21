@@ -5,11 +5,11 @@ body {
   font-family: 'Days One', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* background-image: url(./assets/background.gif);*/
-  background-size: 100%;
-  height: 100%;
+  background-image: url(./assets/background-16-9.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
   /* height: 100vh; */
-  background: radial-gradient(54.74% 54.74% at 15.35% 21.14%, rgba(136, 0, 167, 0.2) 0%, rgba(215, 170, 225, 0.2) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, radial-gradient(46.92% 46.92% at 76.01% 53.08%, #D8A0E6 0%, rgba(216, 160, 230, 0.683809) 40.67%, rgba(216, 160, 230, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, radial-gradient(43.51% 43.51% at 17.99% 104.2%, rgba(136, 0, 167, 0.2) 0%, rgba(215, 170, 225, 0.2) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
 }
 
 code {

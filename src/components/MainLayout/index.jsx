@@ -1,5 +1,5 @@
 import "./index.css";
-import square from "../../assets/square.png";
+import square from "../../assets/ref-icon.png";
 import Header from "../Header";
 import TabSelector from "../TabSelector";
 import { ToastContainer } from "react-toastify";
